@@ -1,0 +1,10 @@
+/home/NEA.com/wen.yu.chien/git/netvlad_testing/patchnetvlad/example_images/index/db1.jpg
+/home/NEA.com/wen.yu.chien/git/netvlad_testing/patchnetvlad/example_images/index/db2.jpg
+/home/NEA.com/wen.yu.chien/git/netvlad_testing/patchnetvlad/example_images/index/db3.jpg
+/home/NEA.com/wen.yu.chien/git/netvlad_testing/patchnetvlad/example_images/index/db4.jpg
+/home/NEA.com/wen.yu.chien/git/netvlad_testing/patchnetvlad/example_images/index/db5.jpg
+/home/NEA.com/wen.yu.chien/git/netvlad_testing/patchnetvlad/example_images/index/db6.jpg
+/home/NEA.com/wen.yu.chien/git/netvlad_testing/patchnetvlad/example_images/index/db7.jpg
+/home/NEA.com/wen.yu.chien/git/netvlad_testing/patchnetvlad/example_images/index/db8.jpg
+/home/NEA.com/wen.yu.chien/git/netvlad_testing/patchnetvlad/example_images/index/db9.jpg
+/home/NEA.com/wen.yu.chien/git/netvlad_testing/patchnetvlad/example_images/index/db10.jpg

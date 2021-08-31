@@ -15,6 +15,10 @@
 
 This repository contains code for the CVPR2021 paper "Patch-NetVLAD: Multi-Scale Fusion of Locally-Global Descriptors for Place Recognition"
 
+## Read this first!!
+> `feature_match_read.py` and `feature_match_realtime.py` are modified from the original repository to read query images from your webcam or dataset. Please check [Quick Command](./quick_command.md) for some preset commands including environment setup and basic operations. The [VLAD folder](./VLAD) is the traditional image retrieval technique that do not use Neural Network.
+>> Modified by Wen-Yu Chien(wen.yu.chien@nearearth.aero), 08/31/2021. For any build issue or bug, please check the [original repository](https://github.com/QVPR/Patch-NetVLAD).
+
 The article can be found on [arXiv](https://arxiv.org/abs/2103.01486) and the [official proceedings](https://openaccess.thecvf.com/content/CVPR2021/html/Hausler_Patch-NetVLAD_Multi-Scale_Fusion_of_Locally-Global_Descriptors_for_Place_Recognition_CVPR_2021_paper.html).
 
 <p style="width: 50%; display: block; margin-left: auto; margin-right: auto">

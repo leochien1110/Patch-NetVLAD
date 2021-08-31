@@ -236,7 +236,7 @@ def main():
     parser.add_argument('--index_input_features_dir', type=str, required=True,
                         help='Path to load all database patch-netvlad features')
     parser.add_argument('--query_file_path', type=str, required=True,
-                        help='Path (with extension) to a text file that stores the save location and name of all query images in the dataset')
+                        help='Relative path to query images in the dataset directory')
     parser.add_argument('--dataset_root_dir', type=str, default='',
                         help='If the files in query_file_path and index_file_path are relative, use dataset_root_dir as prefix.')
     

@@ -1,6 +1,7 @@
 # Custom stuff
 .idea
 .vscode
+.pickle
 patchnetvlad/pretrained_models/*
 patchnetvlad/results/*
 patchnetvlad/output_features/*

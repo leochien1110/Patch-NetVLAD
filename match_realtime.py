@@ -22,7 +22,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-Extracts Patch-NetVLAD local and NetVLAD global features from a given directory of images.
+Match query image from webcam. Extracts Patch-NetVLAD local and NetVLAD global features match search index file.
 
 Configuration settings are stored in configs folder, with compute heavy performance or light-weight alternatives
 available.
